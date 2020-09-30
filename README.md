@@ -33,7 +33,7 @@ Cherry-pick environment variables from `.env.example` you'd like to set and add 
 - DJANGO_DEBUG
 - DJANGO_SECRET_KEY
 
-Prepare the app:
+Prepare the application:
 ```bash
 pip install -r requirements.dev.txt
 npm install
